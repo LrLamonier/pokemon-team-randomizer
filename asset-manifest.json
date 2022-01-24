@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pokemon-team-randomizer/static/css/main.2e35a350.css",
+    "main.js": "/pokemon-team-randomizer/static/js/main.26490b59.js",
+    "index.html": "/pokemon-team-randomizer/index.html",
+    "main.2e35a350.css.map": "/pokemon-team-randomizer/static/css/main.2e35a350.css.map",
+    "main.26490b59.js.map": "/pokemon-team-randomizer/static/js/main.26490b59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e35a350.css",
+    "static/js/main.26490b59.js"
+  ]
+}
